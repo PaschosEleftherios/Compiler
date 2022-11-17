@@ -14,3 +14,8 @@ Cimple is a language with the basic features that a common language provides.
 3)Functions-Recursive functions
 
 We pass a ".ci" file as an argument and then the magic happens.
+
+After running the program we can see 2 new files in our repository a ".c" and a ".asm" file
+each one of them having the C code and the Asm code from the file we gave as input to the compiler.
+
+The overall details are in cimpleFinalReport pdf (for now in Greek.)
