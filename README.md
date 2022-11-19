@@ -1,5 +1,5 @@
 # Compiler
-A fully functional compiler in language called Cimple.
+A fully functional compiler in a language called Cimple.
 In the "cimple_4151.py" file we can see the the below stages:
 1)Lexical Analysis
 2)Symbol table construction
